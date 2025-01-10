@@ -29,6 +29,10 @@ redirect_from:
 * Application of neural network and unmanned system in intelligent perception field
 * Application of neural network in unmanned systems
 
+## Membership in Professional Organizations
+* Senior Member (No.93726764), Institute of Electrical and Electronics Engineers (IEEE), USA (2018-present)
+* Membership, IEEE Computational Intelligence Society, (2016-present)
+
 ## Brief Introduction
 Dr. Yueying Wang is a professor at Shanghai University, Shanghai, China. He was born in Shandong Province, China. He received the B.Eng. degree in mechanical engineering and automation form the Beijing Institute of Technology, Beijing, China, in 2006, the M.Eng. degree in navigation, guidance, and control, and Ph.D. degree in control science and engineering from the Shanghai Jiao Tong University, Shanghai, China, in 2010 and 2015, respectively.
 
