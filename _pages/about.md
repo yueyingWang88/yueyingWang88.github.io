@@ -1,15 +1,11 @@
 ---
 permalink: /
-title: "Dr. Yueying Wang - Professor at Shanghai University"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-# Dr. Yueying Wang
-
-**Position:** Full Professor  
 **Department:** School of Mechatronic Engineering and Automation  
 **Institute:** Shanghai University  
 **E-mail:** yueyingwang@shu.edu.cn
